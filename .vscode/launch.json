@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - KalkulatorBaru",
+            "request": "launch",
+            "mainClass": "KalkulatorBaru",
+            "projectName": "Kalkulator_c6f84f8b"
+        }
+    ]
+}
